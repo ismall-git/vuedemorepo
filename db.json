@@ -1,1 +1,36 @@
 
+events:[
+        {
+           id:12345,
+           category: 'animal welfare',
+           title: 'cat adoption day',
+           description: 'find your new feline friend',
+           location: 'meow town',
+           date:'january 28, 2022',
+           time: '12:00',
+           petsAllowed: true,
+           organizer:'kat laydee'
+        },
+        {
+           id:78910,
+           category: 'cat welfare',
+           title: 'cat training day',
+           description: 'find your new feline friend',
+           location: 'meow town',
+           date:'january 29, 2022',
+           time: '1:00',
+           petsAllowed: true,
+           organizer:'kat laydee'
+        },
+         {
+           id:77777,
+           category: 'cat welfare',
+           title: 'cat training day',
+           description: 'jackson galaxy',
+           location: 'meow town',
+           date:'january 30, 2022',
+           time: '2:00',
+           petsAllowed: true,
+           organizer:'kat laydee'
+        }
+      ]
