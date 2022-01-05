@@ -1,4 +1,4 @@
-
+{
 events:[
         {
            id:12345,
@@ -34,3 +34,5 @@ events:[
            organizer:'kat laydee'
         }
       ]
+        
+}
